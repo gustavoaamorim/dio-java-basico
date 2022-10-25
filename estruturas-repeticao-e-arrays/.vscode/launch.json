@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "Ex4_ParEImpar",
+            "projectName": "estruturas-repeticao-e-arrays_bdd23f05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "Ex1_NomeEIdade",
+            "projectName": "estruturas-repeticao-e-arrays_bdd23f05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Nota",
+            "request": "launch",
+            "mainClass": "Ex2_Nota",
+            "projectName": "estruturas-repeticao-e-arrays_bdd23f05"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "Ex3_MaiorEMedia",
+            "projectName": "estruturas-repeticao-e-arrays_bdd23f05"
+        }
+    ]
+}
