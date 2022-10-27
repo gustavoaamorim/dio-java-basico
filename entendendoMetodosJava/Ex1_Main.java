@@ -1,6 +1,6 @@
 package entendendoMetodosJava;
 
-public class Main {
+public class Ex1_Main {
     
     public static void main(String[] args) {
         
